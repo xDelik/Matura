@@ -1,0 +1,18 @@
+Zadanie 5.1
+17.08.2022
+31.08.2022
+
+Zadanie 5.2
+Etykiety wierszy	Suma z Kukurydza	Suma z Lody	Suma z Hot-Dogi
+Czerwiec	2355	3527	2639
+Lipiec	2448	3675	2747
+Sierpień	2390	3579	2665
+
+
+Zadanie 5.3
+27.06.2022
+45358
+
+Zadanie 5.4
+A) 23.09.2022
+B) 1.34zł
