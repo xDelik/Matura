@@ -2,7 +2,7 @@
 [Arkusze](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)
 
 ✅CZERWIEC 2022 (DODATKOWA) - [Arkusz](https://arkusze.pl/matura-informatyka-2022-czerwiec-poziom-rozszerzony/), [Rozwiązanie](/2022-CKE-CZERWIEC) <br />
-❌MAJ 2022 (Główna) - [Arkusz](https://arkusze.pl/matura-informatyka-2022-maj-poziom-rozszerzony/), [Rozwiązanie](/2022-CKE-MAJ) <br />
+✅MAJ 2022 (Główna) - [Arkusz](https://arkusze.pl/matura-informatyka-2022-maj-poziom-rozszerzony/), [Rozwiązanie](/2022-CKE-MAJ) <br />
 ❌LISTOPAD 2021 (PRÓBNA) - [Arkusz](https://arkusze.pl/matura-probna-operon-informatyka-2021-poziom-rozszerzony/), [Rozwiązanie](/2021-OPERON-LISTOPAD) <br />
 ❌CZERWIEC 2021 (DODATKOWA) - [Arkusz](https://arkusze.pl/matura-informatyka-2021-czerwiec-poziom-rozszerzony/), [Rozwiązanie](/2021-CKE-CZERWIEC) <br />
 ❌MAJ 2021 (Główna) - [Arkusz](https://arkusze.pl/matura-informatyka-2021-maj-poziom-rozszerzony/), [Rozwiązanie](/2021-CKE-MAJ) <br />

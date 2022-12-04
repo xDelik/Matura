@@ -1,0 +1,18 @@
+Zadanie 5.1
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+
+Zadanie 5.2
+8 dni
+7.10.2021 14.10.2021
+
+Zadanie 5.4
+data 19.03.2021
+numer zamowienia 154
+ilosc zamowiec 37
+łaczna liczba butelek z fili 285230
+
+Zadanie 5.5
+13179
